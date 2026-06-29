@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="vnYejT9mF_S5bq11w8PG">
+    <mxGraphModel dx="766" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-3" edge="1" parent="1" source="fk_9g81BuBaKZ1Wiq5tM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fk_9g81BuBaKZ1Wiq5tM-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="160" />
+              <mxPoint x="410" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Internet" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-5" edge="1" parent="1" source="fk_9g81BuBaKZ1Wiq5tM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="280" />
+            </Array>
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Router" vertex="1">
+          <mxGeometry height="30" width="60" x="380" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile device" vertex="1">
+          <mxGeometry height="30" width="60" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Laptop" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile Device" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mobile Device" vertex="1">
+          <mxGeometry height="30" width="60" x="660" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fk_9g81BuBaKZ1Wiq5tM-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="10" y="300" as="sourcePoint" />
+            <mxPoint x="790" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
