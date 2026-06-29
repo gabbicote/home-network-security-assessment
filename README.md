@@ -1,4 +1,3 @@
-# home-network-security-assessment
 # Home Network Security Assessment
 
 ## Project Overview
